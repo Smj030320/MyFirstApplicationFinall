@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">我的第一个应用</string>
+    <string name="hello_world">Hello world</string>
+    <string name="hello_android">你好 Android</string>
+    <string name="hello">Hello</string>
+    <string name="jnu">JNU</string>
+    <string name="change_text">Change Text</string>
+    <string name="bookname1">bookname!</string>
+    <string name="string_ok">OK</string>
+    <string name="name">Name</string>
+    <string name="Task_Num">次数</string>
+    <string name="Task_Point">获得积分</string>
+    <string name="Task_Name">任务主题</string>
+    <string name="AddTask">添加任务</string>
+    <string name="Task_Finish">完成任务</string>
+    <string name="Task_Tag">分类任务</string>
+    <string name="Task_Tag_Now">当前标签：全部</string>
+    <string name="Task_Item_Title">学习20分钟</string>
+    <string name="Task_Num_Finish">9/10</string>
+    <string name="Task_Num_Add">+10</string>
+    <string name="Task_Num_Sub">-10</string>
+    <string name="PlayTask">PlayTask</string>
+    <string name="Reward_Name">奖励主题</string>
+    <string name="Reward_Item_Title">看一部电影</string>
+    <string name="Reward_Num_Add">-10</string>
+    <string name="Reward_Point">耗费积分</string>
+    <string name="AddReward">增加奖励</string>
+    <string name="Reward_Finish">完成奖励</string>
+    <string name="Reward_Tag">分类奖励</string>
+    <string name="hello_blank_fragment" />
+    <string name="Everyday_Task">每日任务</string>
+    <string name="EveryWeekend_Task">每周任务</string>
+</resources>

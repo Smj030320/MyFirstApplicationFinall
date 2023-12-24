@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Task_Types">
+        <item>每日任务</item>
+        <item>每周任务</item>
+        <item>普通任务</item>
+        <item>副本</item>
+    </string-array>
+
+
+    <string-array name="Reward_Types">
+        <item>单次</item>
+        <item>不限</item>
+    </string-array>
+</resources>
